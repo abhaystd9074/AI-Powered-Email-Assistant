@@ -2,7 +2,7 @@
 
 An AI-powered **Email Reply Generator** that analyzes an incoming email and creates a smart reply in various tones (*Friendly, Professional, Casual, or Neutral*).  
 
-This project has both **backend (Spring Boot)** and **frontend (React / Material UI)** implementations, along with a plain **HTML/CSS/JS version** inside `npm`.  
+This project has both **backend (Spring Boot)** and **frontend (React / Material UI).  
 
 ---
 
